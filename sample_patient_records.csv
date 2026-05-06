@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,age,gender,diagnosis,admission_date,discharge_date,blood_pressure,cholesterol,diabetes,risk_score
+P001,John,Smith,45,Male,Hypertension,2024-01-05,2024-01-10,140,220,No,70
+P002,Mary,Johnson,62,Female,Diabetes,2024-01-07,2024-01-14,150,240,Yes,85
+P003,David,Brown,38,Male,Asthma,2024-01-09,2024-01-11,120,180,No,40
+P004,Linda,Davis,55,Female,Heart Disease,2024-01-12,2024-01-20,160,260,Yes,90
+P005,James,Wilson,29,Male,Flu,2024-01-15,2024-01-17,118,170,No,25
+P006,Susan,Miller,71,Female,Hypertension,2024-01-18,2024-01-24,155,230,Yes,88
+P007,Robert,Taylor,50,Male,Diabetes,2024-01-20,2024-01-28,145,250,Yes,80
+P008,Karen,Anderson,,Female,Asthma,2024-01-22,2024-01-25,125,190,No,45
+P009,Michael,Thomas,44,Male,Hypertension,2024-01-25,2024-01-30,138,210,No,68
+P009,Michael,Thomas,44,Male,Hypertension,2024-01-25,2024-01-30,138,210,No,68
