@@ -83,30 +83,7 @@ Healthcare_ETL_Pipeline_TeamName
 │   └── Step_7_Dashboard_and_Insights.md
 │
 └── Screenshots
-    ├── Step_1_Screenshot_1_Resource_Group.png
-    ├── Step_2_Screenshot_1_Storage_Account_Created.png
-    ├── Step_3_Screenshot_1_Raw_Container.png
-    ├── Step_3_Screenshot_2_Processed_Container.png
-    ├── Step_4_Screenshot_1_Raw_CSV_Uploaded.png
-    ├── Step_5_Screenshot_1_Databricks_Workspace.png
-    ├── Step_6_Screenshot_1_Databricks_Cluster.png
-    ├── Step_7_Screenshot_1_Databricks_Read_Raw_Data.png
-    ├── Step_8_Screenshot_1_Databricks_Cleaned_Data.png
-    ├── Step_9_Screenshot_1_Data_Quality_Checks.png
-    ├── Step_10_Screenshot_1_Processed_Data_Saved.png
-    ├── Step_10_Screenshot_2_Processed_Data_Verified.png
-    ├── Step_10_Screenshot_3_Processed_Container_Output.png
-    ├── Step_11_Screenshot_1_SQL_Database_Created.png
-    ├── Step_12_Screenshot_1_SQL_Networking_Configured.png
-    ├── Step_13_Screenshot_1_Data_Loaded_To_SQL_From_Databricks.png
-    ├── Step_14_Screenshot_1_SQL_Select_All.png
-    ├── Step_14_Screenshot_2_SQL_Risk_Category_Query.png
-    ├── Step_14_Screenshot_3_SQL_Diagnosis_Query.png
-    ├── Step_14_Screenshot_4_SQL_Schema_Integrity.png
-    ├── Step_15_Screenshot_1_Risk_Category_Dashboard.png
-    ├── Step_15_Screenshot_2_Diagnosis_Dashboard.png
-    ├── Step_16_Screenshot_1_ADF_Pipeline_Created.png
-    └── Step_16_Screenshot_2_ADF_Debug_Success.png
+
 ```
 
 ---
