@@ -61,7 +61,7 @@ SQL Queries / Dashboard / Reporting
 ## Folder Structure
 
 ```text
-Healthcare_ETL_Pipeline_TeamName
+Healthcare_ETL_Pipeline
 │
 ├── README.md ( Docuemntation, scripts, codes)
 │
@@ -1078,14 +1078,6 @@ jdbc_password = "PASTE_YOUR_SQL_PASSWORD_HERE"
 
 ---
 
-# Contributors
-
-```text
-Vishnu Varma
-Team Member 2
-Team Member 3
-Team Member 4
-```
 
 ---
 
