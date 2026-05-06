@@ -63,25 +63,10 @@ SQL Queries / Dashboard / Reporting
 ```text
 Healthcare_ETL_Pipeline_TeamName
 │
-├── README.md
+├── README.md ( Docuemntation, scripts, codes)
 │
-├── Data
-│   └── sample_patient_records.csv
-│
-├── Code
-│   ├── data_cleaning_transformation.py
-│   ├── data_quality_checks.py
-│   └── load_to_azure_sql.py
-│
-├── Documentation
-│   ├── Step_1_Project_Overview.md
-│   ├── Step_2_Azure_Resources_Setup.md
-│   ├── Step_3_ADLS_Data_Ingestion.md
-│   ├── Step_4_Databricks_Transformation.md
-│   ├── Step_5_Azure_SQL_Loading.md
-│   ├── Step_6_Data_Quality_Validation.md
-│   └── Step_7_Dashboard_and_Insights.md
-│
+├── sample_patient_records.csv
+│   
 └── Screenshots
 
 ```
